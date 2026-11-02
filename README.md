@@ -1,5 +1,7 @@
 # Capstone 3 — Analisis Program GrabUnlimited
 
+# Data yang digunakan merupakan Data sintetis, bukan merupakan data asli milik Grab
+
 Analisis data end-to-end terhadap program berlangganan **GrabUnlimited** milik Grab, berdasarkan 300.000 pesanan GrabFood periode **November 2023 – Maret 2024**.
 
 ## Background Story
@@ -67,6 +69,8 @@ Python 3.13 · pandas · numpy · seaborn · matplotlib
 
 -------------------------------------------------------------------------------------------
  # Capstone 3 — GrabUnlimited Program Analysis
+
+ # The data used is synthetic data; it is not actual data belonging to Grab.
 
 End-to-end data analysis of Grab's **GrabUnlimited** subscription program, based on 300,000 GrabFood orders from **November 2023 to March 2024**.
 
